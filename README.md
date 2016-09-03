@@ -28,17 +28,17 @@ Please do not just copy the answer, the action will definitely lost the fun and 
 
 Sep. 3, 2016 Updates level Elementary
 
-## Problems and Solutions
+## Levels
 
-- [Begin](begin.png)
-- [Elementary](Level1.md)
-- [Very Easy](Level2.md)
-- [Easy](Level3.md)
-- [Normal](Level4.md)
-- [Medium](Level5.md)
-- [Difficult](Level6.md)
-- [Hard](Level7.md)
-- [Harder](Level8.md)
-- [Very Hard](Level9.md)
-- [Impossible](Level10.md)
-- [End](end.png)
+- [x] [Begin](begin.png)
+- [x] [Elementary](Level1.md)
+- [ ] [Very Easy](Level2.md)
+- [ ] [Easy](Level3.md)
+- [ ] [Normal](Level4.md)
+- [ ] [Medium](Level5.md)
+- [ ] [Difficult](Level6.md)
+- [ ] [Hard](Level7.md)
+- [ ] [Harder](Level8.md)
+- [ ] [Very Hard](Level9.md)
+- [ ] [Impossible](Level10.md)
+- [x] [End](end.png)
