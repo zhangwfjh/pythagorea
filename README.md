@@ -33,8 +33,8 @@ Please do not just copy the answer, the action will definitely lost the fun and 
 
 - [x] [Begin](begin.png)
 - [x] [Elementary](Level1.md)
-- [ ] [Very Easy](Level2.md)
-- [ ] [Easy](Level3.md)
+- [x] [Very Easy](Level2.md)
+- [x] [Easy](Level3.md)
 - [ ] [Normal](Level4.md)
 - [ ] [Medium](Level5.md)
 - [ ] [Difficult](Level6.md)
