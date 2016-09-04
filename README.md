@@ -22,7 +22,7 @@ As a result, I completed all stages and levels in less than 20 hours. So I want 
 
 For the moment, I sort all levels and stages in the order as in the game. Later, I consider to sort by the construction category of the problem. I will also offer proofs to some no-obvious constructions. 
 
-Please do not just copy the answer, the action will definitely lost the fun and the value of this game. I also hope somebody finding a better solution tell me and share the joyness.
+Please do not just copy the answer, the action will definitely lost the fun and the value of this game. I also hope somebody finding a better solution tell me and share the feeling.
 
 ## Status
 
