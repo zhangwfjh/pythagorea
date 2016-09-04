@@ -14,7 +14,7 @@ When I was trapped, I opened Google Play store again and found out another game 
 
 As a result, I completed all stages and levels in less than 20 hours. So I want to share my solutions here as a reference for whomever wants to know how and why. I hope this helps for study of the beautiful classic geometry. 
 
-## Download Link
+## Game Link
 
 [Official website](http://www.euclidea.xyz/)
 
@@ -22,11 +22,12 @@ As a result, I completed all stages and levels in less than 20 hours. So I want 
 
 For the moment, I sort all levels and stages in the order as in the game. Later, I consider to sort by the construction category of the problem. I will also offer proofs to some no-obvious constructions. 
 
-Please do not just copy the answer, the action will definitely lost the fun and the value of this game. I also hope somebody finding a better solution tell me and share the enjoyness.
+Please do not just copy the answer, the action will definitely lost the fun and the value of this game. I also hope somebody finding a better solution tell me and share the joyness.
 
 ## Status
 
-Sep. 3, 2016 Updates level Elementary
+- Sep. 4, 2016 Updates to level Easy
+- Sep. 3, 2016 Updates level Elementary
 
 ## Levels
 
@@ -43,6 +44,6 @@ Sep. 3, 2016 Updates level Elementary
 - [ ] [Impossible](Level10.md)
 - [x] [End](end.png)
 
-## Contributor
+## Author
 
-Shaun Zhang [zhangwfjh AT gmail DOT com](mailto:zhangwfjh@gmail.com)
+Shaun Zhang (@zhangwfjh)
