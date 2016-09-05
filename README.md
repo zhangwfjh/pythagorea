@@ -26,6 +26,7 @@ Please do not just copy the answer, the action will definitely lost the fun and 
 
 ## Status
 
+- Sep. 5, 2016 Updates to level Difficult
 - Sep. 4, 2016 Updates to level Easy
 - Sep. 3, 2016 Updates level Elementary
 
@@ -35,9 +36,9 @@ Please do not just copy the answer, the action will definitely lost the fun and 
 - [x] [Elementary](Level1.md)
 - [x] [Very Easy](Level2.md)
 - [x] [Easy](Level3.md)
-- [ ] [Normal](Level4.md)
-- [ ] [Medium](Level5.md)
-- [ ] [Difficult](Level6.md)
+- [x] [Normal](Level4.md)
+- [x] [Medium](Level5.md)
+- [x] [Difficult](Level6.md)
 - [ ] [Hard](Level7.md)
 - [ ] [Harder](Level8.md)
 - [ ] [Very Hard](Level9.md)
