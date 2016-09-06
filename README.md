@@ -22,13 +22,14 @@ As a result, I completed all stages and levels in less than 20 hours. So I want 
 
 For the moment, I sort all levels and stages in the order as in the game. Later, I consider to sort by the construction category of the problem. I will also offer proofs to some no-obvious constructions. 
 
-Please do not just copy the answer, the action will definitely lost the fun and the value of this game. I also hope somebody finding a better solution tell me and share the feeling.
+Please do not just copy the answer, the action will definitely lose the fun and the value of this game. I also hope somebody finding a better solution tell me and share the feeling.
 
 ## Status
 
+- Sep. 6, 2016 Updates to level Hard
 - Sep. 5, 2016 Updates to level Difficult
 - Sep. 4, 2016 Updates to level Easy
-- Sep. 3, 2016 Updates level Elementary
+- Sep. 3, 2016 Updates to level Elementary
 
 ## Levels
 
@@ -39,7 +40,7 @@ Please do not just copy the answer, the action will definitely lost the fun and 
 - [x] [Normal](Level4.md)
 - [x] [Medium](Level5.md)
 - [x] [Difficult](Level6.md)
-- [ ] [Hard](Level7.md)
+- [x] [Hard](Level7.md)
 - [ ] [Harder](Level8.md)
 - [ ] [Very Hard](Level9.md)
 - [ ] [Impossible](Level10.md)
