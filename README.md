@@ -26,6 +26,7 @@ Please do not just copy the answer, the action will definitely lose the fun and 
 
 ## Status
 
+- Sep. 10, 2016 All levels finished
 - Sep. 6, 2016 Updates to level Hard
 - Sep. 5, 2016 Updates to level Difficult
 - Sep. 4, 2016 Updates to level Easy
@@ -41,9 +42,9 @@ Please do not just copy the answer, the action will definitely lose the fun and 
 - [x] [Medium](Level5.md)
 - [x] [Difficult](Level6.md)
 - [x] [Hard](Level7.md)
-- [ ] [Harder](Level8.md)
-- [ ] [Very Hard](Level9.md)
-- [ ] [Impossible](Level10.md)
+- [x] [Harder](Level8.md)
+- [x] [Very Hard](Level9.md)
+- [x] [Impossible](Level10.md)
 - [x] [End](end.png)
 
 ## Author
