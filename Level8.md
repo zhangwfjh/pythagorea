@@ -1,6 +1,6 @@
 ### Harder Level
 
-* Construct a midpoint of the segment AB.Construct a midpoint of the segment AB.
+* Construct a midpoint of the segment AB.
 [Problem](8/Problems/1.png) 
 [Answer](8/Solutions/1.png)
 

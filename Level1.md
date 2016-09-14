@@ -8,7 +8,7 @@
 [Problem](1/Problems/2.png) 
 [Answer](1/Solutions/2.png)
 
-* connect the four given points to get a square.
+* Connect the four given points to get a square.
 [Problem](1/Problems/3.png) 
 [Answer](1/Solutions/3.png)
 
@@ -16,7 +16,7 @@
 [Problem](1/Problems/4.png) 
 [Answer](1/Solutions/4.png)
 
-* Construct a line through the point A that is perpendicular to the given ine.
+* Construct a line through the point A that is perpendicular to the given line.
 [Problem](1/Problems/5.png) 
 [Answer](1/Solutions/5.png)
 
