@@ -4,7 +4,7 @@
 [Problem](1/Problems/1.png) 
 [Answer](1/Solutions/1.png)
 
-* Construct the midpoint of the segement.
+* Construct the midpoint of the segment.
 [Problem](1/Problems/2.png) 
 [Answer](1/Solutions/2.png)
 
@@ -12,7 +12,7 @@
 [Problem](1/Problems/3.png) 
 [Answer](1/Solutions/3.png)
 
-* Construct a square using the given segement as a side.
+* Construct a square using the given segment as a side.
 [Problem](1/Problems/4.png) 
 [Answer](1/Solutions/4.png)
 
@@ -28,7 +28,7 @@
 [Problem](1/Problems/7.png) 
 [Answer](1/Solutions/7.png)
 
-* Construct the midpoint of the segement.
+* Construct the midpoint of the segment.
 [Problem](1/Problems/8.png) 
 [Answer](1/Solutions/8.png)
 
@@ -48,7 +48,7 @@
 [Problem](1/Problems/12.png) 
 [Answer](1/Solutions/12.png)
 
-* Construct two points that divide the segement into three equal parts.
+* Construct two points that divide the segment into three equal parts.
 [Problem](1/Problems/13.png) 
 [Answer](1/Solutions/13.png)
 
@@ -60,7 +60,7 @@
 [Problem](1/Problems/15.png) 
 [Answer](1/Solutions/15.png)
 
-* Construct a square using the given segement as a side.
+* Construct a square using the given segment as a side.
 [Problem](1/Problems/16.png) 
 [Answer](1/Solutions/16.png)
 
