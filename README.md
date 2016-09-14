@@ -26,6 +26,7 @@ Please do not just copy the answer, the action will definitely lose the fun and 
 
 ## Status
 
+- Sep. 14, 2016 Add content organized by category of problems
 - Sep. 10, 2016 All levels finished
 - Sep. 6, 2016 Updates to level Hard
 - Sep. 5, 2016 Updates to level Difficult
@@ -46,6 +47,10 @@ Please do not just copy the answer, the action will definitely lose the fun and 
 - [x] [Very Hard](Level9.md)
 - [x] [Impossible](Level10.md)
 - [x] [End](end.png)
+
+## View by Category
+
+[View](Content.md)
 
 ## Author
 
