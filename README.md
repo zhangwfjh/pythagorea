@@ -20,7 +20,7 @@ As a result, I completed all stages and levels in less than 20 hours. So I want 
 
 ## How to use
 
-For the moment, I sort all levels and stages in the order as in the game. Later, I consider to sort by the construction category of the problem. I will also offer proofs to some no-obvious constructions. 
+For the moment, I sort all levels and stages in the order as in the game. Later, I consider to sort by the construction category of the problem. I will also offer proofs to some non-obvious constructions. 
 
 Please do not just copy the answer, the action will definitely lose the fun and the value of this game. I also hope somebody finding a better solution tell me and share the feeling.
 
