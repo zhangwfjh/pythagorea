@@ -8,7 +8,7 @@
 [Problem](7/Problems/2.png) 
 [Answer](7/Solutions/2.png)
 
-* Construct two lines through the point A that divide the rectangles into three parts of equal area.
+* Construct two lines through the point A that divide the rectangle into three parts of equal area.
 [Problem](7/Problems/3.png) 
 [Answer](7/Solutions/3.png)
 

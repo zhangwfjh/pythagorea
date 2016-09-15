@@ -44,7 +44,7 @@
 [Problem](8/Problems/11.png) 
 [Answer](8/Solutions/11.png)
 
-* Construct all lines through the point C that lie at equal distance from the point A and B.
+* Construct all lines through the point C that lie at equal distance from the points A and B.
 [Problem](8/Problems/12.png) 
 [Answer](8/Solutions/12.png)
 

@@ -24,7 +24,7 @@
 [Problem](10/Problems/6.png) 
 [Answer](10/Solutions/6.png)
 
-* Construct two perpendicular lines that go three two pairs of the given points, respectively.
+* Construct two perpendicular lines that go through two pairs of the given points, respectively.
 [Problem](10/Problems/7.png) 
 [Answer](10/Solutions/7.png)
 

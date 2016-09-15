@@ -40,7 +40,7 @@
 [Problem](9/Problems/10.png) 
 [Answer](9/Solutions/10.png)
 
-* Construct te circumcenter of the triangle.
+* Construct the circumcenter of the triangle.
 [Problem](9/Problems/11.png) 
 [Answer](9/Solutions/11.png)
 

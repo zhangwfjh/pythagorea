@@ -26,6 +26,7 @@ Please do not just copy the answer, the action will definitely lose the fun and 
 
 ## Status
 
+- Sep. 15, 2016 Update the [category view](Content.md)
 - Sep. 14, 2016 Add content organized by category of problems
 - Sep. 10, 2016 All levels finished
 - Sep. 6, 2016 Updates to level Hard
